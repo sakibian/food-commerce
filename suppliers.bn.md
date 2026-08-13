@@ -1,20 +1,20 @@
-# সাপ্লায়ার স্কাউটিং তালিকা (যোগাযোগ পদ্ধতি)
+# সাপ্লায়ার খোঁজার তালিকা (যোগাযোগের পদ্ধতি)
 # Supplier Scouting List (Contact Approach)
 
-> প্ল্যানের ধাপ ২: ফেজ-১ প্যাকেট স্ট্যাপল লাইনের জন্য অর্গানিক সাপ্লায়ার খোঁজা।
+> প্ল্যানের স্টেপ ২: ফেজ-১-এর প্যাকেট স্ট্যাপল লাইনের জন্য অর্গানিক সাপ্লায়ার খোঁজা।
 > Step 2 of the plan: find organic suppliers for the Phase-1 parcel-staples line.
 
-**কৌশল:** যাচাইকৃত অর্গানিক সাপ্লায়ার / সরাসরি ফার্ম থেকে বাল্ক কিনুন, তারপর নিজ ব্র্যান্ডে রি-প্যাক করুন। টার্গেট মার্জিন ≥৩৫–৪০%।
+**কৌশল:** যাচাই করা অর্গানিক সাপ্লায়ার বা সরাসরি ফার্ম থেকে বাল্ক কিনুন, তারপর নিজের ব্র্যান্ডে রি-প্যাক করুন। টার্গেট মার্জিন ≥৩৫–৪০%।
 **Strategy:** Buy bulk from verified organic suppliers / direct farms, then repack under our own brand. Target margin ≥35–40%.
 
 ---
 
 ## সোর্সিং কৌশল / Sourcing Strategy
-- **আগে হোলসেল, পরে ফার্ম:** গতির জন্য ২–৩ হোলসেল ব্র্যান্ড দিয়ে শুরু; হিরো পণ্যের (তেল, মধু, চাল) জন্য ১–২ সরাসরি ফার্ম যোগ করুন মার্জিন ও বিশ্বাস বাড়াতে।
+- **আগে হোলসেল, পরে ফার্ম:** দ্রুত শুরু করতে ২–৩টা হোলসেল ব্র্যান্ড দিয়ে শুরু করুন; হিরো পণ্যের (তেল, মধু, চাল) জন্য ১–২টা সরাসরি ফার্ম যোগ করুন, যাতে লাভ ও গ্রাহকের বিশ্বাস বাড়ে।
   **Wholesale first, farm later:** start with 2–3 wholesale brands for speed; add 1–2 direct farms for hero items (oil, honey, rice) to boost margin & trust.
-- **রি-প্যাক অধিকার:** প্রতিটি সাপ্লায়ার পুনঃবিক্রয় / হোয়াইট-লেবেল允许 কিনা যাচাই করুন; বাল্ক প্যাক সাইজ নিন।
+- **রি-প্যাক অধিকার:** প্রতিটি সাপ্লায়ার পুনঃবিক্রয় বা হোয়াইট-লেবেল করতে দেয় কি না যাচাই করুন; বাল্ক প্যাক সাইজ নিন।
   **Repack rights:** confirm each supplier allows resale / white-label; get bulk pack sizes.
-- **সার্টিফিকেট:** BSTI, অর্গানিক, হালাল সার্টিফিকেট চান।
+- **সার্টিফিকেট:** BSTI, অর্গানিক আর হালাল সার্টিফিকেট চান।
   **Certifications:** ask for BSTI, organic, halal certificates.
 
 ---
@@ -48,16 +48,16 @@
 ---
 
 ## যোগাযোগ পদ্ধতি (স্ক্রিপ্ট) / Outreach Approach (Script)
-১. টেবিল থেকে প্রতি ক্যাটাগরিতে ৩–৫টি শর্টলিস্ট করুন। / Shortlist 3–5 candidates per category from the table.
-২. প্রথম যোগাযোগ (WhatsApp/কল): "আমরা গুলশান/ডিপ্লোম্যাটিক জোনের জন্য অর্গানিক স্ট্যাপল ব্র্যান্ড আনছি। আপনারা হোলসেল/হোয়াইট-লেবেল বাল্ক সাপ্লাই দেন? দয়া করে প্রাইস লিস্ট + MOQ + সার্টিফিকেট দিন।" / First contact: ask for wholesale/white-label, price list + MOQ + certs.
-৩. শীর্ষ ১–২ ফার্ম/মিল ভিজিট করে কোয়ালিটি, হাইজিন, সার্টিফিকেট যাচাই করুন। / Visit top 1–2 farms/mills to verify quality, hygiene, certs.
-৪. রি-প্যাক অধিকার + ক্রেডিট টার্ম নেগোসিয়েট করুন। / Negotiate repack rights + credit terms.
-৫. ট্রায়াল অর্ডার (ছোট ব্যাচ), জোনে প্যাকিং + ডেলিভারি টেস্ট করুন। / Trial order (small batch), test packing + delivery in the zone.
-৬. প্রতি ক্যাটাগরিতে ১ প্রাইমারি + ১ ব্যাকআপ সাপ্লায়ার ফাইনাল করুন। / Lock 1 primary + 1 backup supplier per category.
+১. টেবিল থেকে প্রতিটা ক্যাটাগরিতে ৩–৫টা শর্টলিস্ট করুন। / Shortlist 3–5 candidates per category from the table.
+২. প্রথম যোগাযোগ (WhatsApp/কল): "আমরা গুলশান/ডিপ্লোম্যাটিক জোনের জন্য অর্গানিক স্ট্যাপল ব্র্যান্ড আনছি। আপনারা কি হোলসেল বা হোয়াইট-লেবেলে বাল্ক সাপ্লাই দেন? প্রাইস লিস্ট + MOQ + সার্টিফিকেটটা দেবেন প্লিজ।" / First contact: ask for wholesale/white-label, price list + MOQ + certs.
+৩. সেরা ১–২টা ফার্ম/মিলে গিয়ে কোয়ালিটি, হাইজিন আর সার্টিফিকেট যাচাই করুন। / Visit top 1–2 farms/mills to verify quality, hygiene, certs.
+৪. রি-প্যাক করার অধিকার আর ক্রেডিট টার্ম নিয়ে কথা বলুন। / Negotiate repack rights + credit terms.
+৫. ট্রায়াল অর্ডার (ছোট ব্যাচ) দিয়ে জোনে প্যাকিং আর ডেলিভারি টেস্ট করুন। / Trial order (small batch), test packing + delivery in the zone.
+৬. প্রতিটা ক্যাটাগরিতে ১টা প্রাইমারি + ১টা ব্যাকআপ সাপ্লায়ার ফাইনাল করুন। / Lock 1 primary + 1 backup supplier per category.
 
 ---
 
-## ফেজ-১ লঞ্চের জন্য সুপারিশকৃত শর্টলিস্ট / Recommended Shortlist for Phase-1 Launch
+## ফেজ-১ লঞ্চের জন্য পছন্দের শর্টলিস্ট / Recommended Shortlist for Phase-1 Launch
 - **তেল:** SUO XI বা স্থানীয় কলহু মিল (হোলসেল)। / Oils: SUO XI or local kolhu mill.
 - **ঘি / মধু:** খাস / সুন্নাহ বাজার হোলসেল। / Ghee / Honey: Khaas / Sunnah Bazar wholesale.
 - **চাল / আটা:** প্রবর্তনা / খাস। / Rice / Atta: Probortona / Khaas.
@@ -69,7 +69,7 @@
 
 ## চুক্তির আগে যাচাই করুন / Verify Before Signing
 - বৈধ সার্টিফিকেট (BSTI / অর্গানিক / হালাল)। / Valid certs (BSTI / organic / halal).
-- নিয়মিত সাপ্লাই ও লিড টাইম। / Consistent supply & lead time.
-- MOQ ও দামের ছাড়। / MOQ & price breaks.
-- রি-প্যাক / পুনঃবিক্রয় অনুমতি। / Repack / resale permission.
+- নিয়মিত সাপ্লাই আর লিড টাইম। / Consistent supply & lead time.
+- MOQ আর দামের ছাড়। / MOQ & price breaks.
+- রি-প্যাক বা পুনঃবিক্রয়ের অনুমতি। / Repack / resale permission.
 - ফুড সেফটি / হাইজিন অডিট। / Food safety / hygiene audit.

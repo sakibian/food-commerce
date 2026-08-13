@@ -1,21 +1,21 @@
 # ফুড কমার্স — গুলশান / বারিধারা / ডিওএইচএস / ডিপ্লোম্যাটিক জোন
-# Food Commerce — Gulshan / Baridhara / DOHS / Diplomatic Zone
+*(Food Commerce — Gulshan / Baridhara / DOHS / Diplomatic Zone)*
 
-ঢাকার ধনী এলাকা — গুলশান, বারিধারা (ডিপ্লোম্যাটিক জোন, সাধারণ আবাসিক, ডিওএইচএস) — টার্গেট করা একটি ছোট অর্গানিক ফুড কোম্পানির ব্যবসায়িক পরিকল্পনার রিপোজিটরি।
+ঢাকার ধনী এলাকা — গুলশান, বারিধারা (ডিপ্লোম্যাটিক জোন, সাধারণ বাসার এলাকা, ডিওএইচএস) — এই এলাকাকে টার্গেট করে একটা ছোট অর্গানিক ফুড কোম্পানির ব্যবসার প্ল্যান এখানে রাখা হয়েছে।
 Business planning repository for a small organic food company targeting the affluent pocket of Dhaka: Gulshan, Baridhara (Diplomatic Zone, General Residential, DOHS).
 
 ---
 
 ## লক্ষ্য / Goal
-ডিপ্লোম্যাটিক জোনের ~২,৫০০–৪,০০০ পরিবারের (এবং পুরো বারিধারা + ডিওএইচএস-এ ~১০,০০০–১২,০০০) জন্য একটি বিশ্বস্ত অর্গানিক ফুড ব্র্যান্ড চালু করা, লিণ দিয়ে শুরু ও রান্না খাবারে সম্প্রসারণ।
+ডিপ্লোম্যাটিক জোনের ~২,৫০০–৪,০০০ পরিবারের জন্য (আর পুরো বারিধারা + ডিওএইচএস মিলে ~১০,০০০–১২,০০০) একটা ভরসা করার মতো অর্গানিক ফুড ব্র্যান্ড চালু করা, আগে ছোট করে শুরু করে পরে রান্না খাবারে নিয়ে যাওয়া।
 Launch a trusted organic food brand for ~2,500–4,000 families in the Diplomatic Zone (and ~10,000–12,000 across whole Baridhara + DOHS), starting lean and scaling into cooked meals.
 
 ---
 
-## সুপারিশকৃত পথ / Recommended Path
-- **ফেজ ১ (শুরু) / Phase 1 (start):** অর্গানিক স্ট্যাপল প্যাকেট — প্যাক/কেজি/বস্তা/বোতল, শেফ ছাড়া। প্রমাণিত চাহিদা, কম ঝুঁকি।
+## সুপারিশ করা পথ / Recommended Path
+- **ফেজ ১ (শুরু) / Phase 1 (start):** অর্গানিক স্ট্যাপল প্যাকেট — প্যাক/কেজি/বস্তা/বোতল, শেফ লাগবে না। চাহিদা আছে এমন, ঝুঁকি কম।
   Parcel organic staples — pack/kg/bosta/bottle, NO chef. Proven demand, low risk.
-- **ফেজ ২ (সম্প্রসারণ) / Phase 2 (scale):** শেফের রান্না দৈনিক অর্গানিক খাবার যোগ (স্বাস্থ্যকর বাঙালি / বিদেশি / কিটো / শিশু)।
+- **ফেজ ২ (সম্প্রসারণ) / Phase 2 (scale):** শেফ দিয়ে রোজ রান্না অর্গানিক খাবার দেওয়া শুরু (স্বাস্থ্যকর বাঙালি / বিদেশি / কিটো / বাচ্চাদের)।
   Add chef-made organic daily meals (healthy Bangla / expat / keto / kids).
 
 ---
@@ -33,16 +33,16 @@ Launch a trusted organic food brand for ~2,500–4,000 families in the Diplomati
 
 ---
 
-## টার্গেট মার্কেট সারাংশ / Target Market Snapshot
+## টার্গেট মার্কেট সংক্ষেপে / Target Market Snapshot
 - বারিধারা ডিপ্লোম্যাটিক জোন: ~২,৫০০–৪,০০০ পরিবার / Baridhara Diplomatic Zone: ~2,500–4,000 families
 - পুরো বারিধারা + ডিওএইচএস: ~১০,০০০–১২,০০০ পরিবার / Whole Baridhara + DOHS: ~10,000–12,000 families
 - বাসিন্দা: কূটনীতিক, বিদেশি, ধনী ব্যবসায়ী পরিবার / Residents: diplomats, expats, UHNI business families
 
 ---
 
-## পরবর্তী ধাপ / Next Steps
-1. ✅ ফেজ-১ স্ট্যাপল তালিকা তৈরি (প্যাক সাইজ + দাম)। / Phase-1 staple product list — DONE.
-2. ✅ অর্গানিক সাপ্লায়ার খোঁজা (হোলসেল বা সরাসরি ফার্ম)। / Find organic suppliers (wholesale or direct farm) — DONE.
-3. প্যাকিং ও গেটেড কমিউনিটি ডেলিভারি সেটআপ। / Set up parcel packing + gated-community delivery.
-4. ১৫–২০ ইন্টারভিউ দিয়ে যাচাই। / Validate with 15–20 household interviews.
-5. ফেজ-২ রান্নাঘর পরিকল্পনা। / Plan Phase-2 kitchen.
+## এরপরের স্টেপ / Next Steps
+1. ✅ ফেজ-১ স্ট্যাপল তালিকা বানানো হয়েছে (প্যাক সাইজ + দাম)। / Phase-1 staple product list — DONE.
+2. ✅ অর্গানিক সাপ্লায়ার খোঁজা হয়েছে (হোলসেল বা সরাসরি ফার্ম)। / Find organic suppliers (wholesale or direct farm) — DONE.
+3. প্যাকিং ও গেটেড কমিউনিটিতে ডেলিভারি সেটআপ করা। / Set up parcel packing + gated-community delivery.
+4. ১৫–২০ ইন্টারভিউ দিয়ে চেক করা। / Validate with 15–20 household interviews.
+5. ফেজ-২ রান্নাঘরের প্ল্যান করা। / Plan Phase-2 kitchen.

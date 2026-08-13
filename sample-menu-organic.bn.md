@@ -1,12 +1,12 @@
-# নমুনা অর্গানিক মেনু ও প্রয়োজনীয় উপকরণ
+# নমুনা অর্গানিক মেনু আর যা লাগবে
 # Sample Organic Menus & Required Items
 
-> গুলশান–বারিধারা–ডিওএইচএস–ডিপ্লোম্যাটিক জোনের জন্য। এগুলো ফেজ-২ (শেফের খাবার) প্ল্যান; উপকরণগুলোই আমাদের ফেজ-১ প্যাকেট স্ট্যাপল লাইন।
+> গুলশান–বারিধারা–ডিওএইচএস–ডিপ্লোম্যাটিক জোনের কাস্টমারদের জন্য। এগুলো ফেজ-২ (শেফের রান্না খাবার) প্ল্যান; এই উপকরণগুলোই আমাদের ফেজ-১ প্যাকেট স্ট্যাপল লাইন হিসাবে কাজ করবে।
 > (For Gulshan–Baridhara–DOHS–Diplomatic Zone. These are Phase-2 (chef-meal) plans; the ingredients double as our Phase-1 parcel-staple line.)
 
 ---
 
-## সাধারণ অর্গানিক স্ট্যাপল ইনভেন্টরি (সব প্ল্যানের জন্য সংগ্রহ)
+## সব প্ল্যানের জন্য সাধারণ অর্গানিক স্ট্যাপল ইনভেন্টরি (আমরা এগুলোই জমা করব)
 ## Common Organic Staple Inventory (source for ALL plans)
 
 - কোল্ড-প্রেসড সরিষার তেল / Cold-pressed mustard oil
@@ -22,16 +22,15 @@
 
 ---
 
-## ১. স্বাস্থ্যকর বাঙালি প্ল্যান
+## ১. সুস্থ থাকার বাঙালি প্ল্যান
 ## 1. Healthy Bangla Plan
 
-**ধারণা:** ভারসাম্যপূর্ণ অর্গানিক বাঙালি থালি, কম তেল, বেশি সবজি।
-**Concept:** Balanced organic Bangladeshi thali, low oil, high veg.
+**ধারণা:** সব দিক থেকে ঠিক থাকা অর্গানিক বাঙালি থালি — তেল কম, সবজি বেশি।
 
 **নমুনা খাবার:** চিনিগুড়া চাল + মসুর ডাল + অর্গানিক রুই মাছের কারি + পালং ও লাউ সবজি + সালাদ + দই।
 **Sample meal:** Chinigura rice + masoor dal + organic rui fish curry + spinach & gourd veg + salad + yogurt.
 
-**প্রয়োজনীয় উপকরণ / Items needed:**
+**যা লাগবে / Items needed:**
 - অর্গানিক চিনিগুড়া চাল / Organic Chinigura rice
 - অর্গানিক মসুর ডাল / Organic red lentil (masoor)
 - অর্গানিক মাছ (রুই, তেলাপিয়া, পাঙ্গাস) বা মুরগি / Organic fish (rui, tilapia, pangas) or chicken
@@ -43,16 +42,15 @@
 
 ---
 
-## ২. বিদেশি / কন্টিনেন্টাল প্ল্যান
+## ২. বিদেশিদের / কন্টিনেন্টাল প্ল্যান
 ## 2. Expat / Continental Plan
 
-**ধারণা:** কূটনীতিক/বিদেশিদের পরিচিত পাশ্চাত্য খাবার — বিশুদ্ধ, হালকা, প্রোটিন সমৃদ্ধ।
-**Concept:** Familiar Western meals for diplomats/expatriates — clean, mild, protein-rich.
+**ধারণা:** কূটনীতিক/বিদেশিদের চেনা পাশ্চাত্য খাবার — পরিষ্কার, হালকা, প্রোটিন বেশি।
 
 **নমুনা খাবার:** গ্রিল্ড অর্গানিক মুরগি + কুইনোয়া/ব্রাউন রাইস + রোস্টেড ব্রকোলি ও জুকিনি + গার্ডেন সালাদ + অলিভ তেল-লেবু ড্রেসিং।
 **Sample meal:** Grilled organic chicken + quinoa/brown rice + roasted broccoli & zucchini + garden salad + olive-oil lemon dressing.
 
-**প্রয়োজনীয় উপকরণ / Items needed:**
+**যা লাগবে / Items needed:**
 - অর্গানিক মুরগির বুক / মাছ (দেশি অর্গানিক বা আমদানি) / Organic chicken breast / fish (local organic or imported)
 - কুইনোয়া / ব্রাউন রাইস / হোলগ্রেইন পাস্তা / Quinoa / brown rice / wholegrain pasta
 - এক্সট্রা ভার্জিন অলিভ তেল / Extra-virgin olive oil
@@ -69,13 +67,12 @@
 ## ৩. কিটো প্ল্যান
 ## 3. Keto Plan
 
-**ধারণা:** কম কার্ব, বেশি চর্বি অর্গানিক খাবার ফিটনেস/ওজন নিয়ন্ত্রণের জন্য।
-**Concept:** Low-carb, high-fat organic meals for fitness/weight management.
+**ধারণা:** কার্ব কম, চর্বি বেশি — এমন অর্গানিক খাবার ফিটনেস/ওজন কমাতে।
 
 **নমুনা খাবার:** অ্যাভোকাডো-ডিম সালাদ + গ্রিল্ড চিকেন/বিফ + ফুলকপির ভাত + ঘিতে ভাজা পালং + গ্রিক ইয়োগার্ট।
 **Sample meal:** Avocado-egg salad + grilled chicken/beef + cauliflower rice + sautéed spinach in ghee + greek yogurt.
 
-**প্রয়োজনীয় উপকরণ / Items needed:**
+**যা লাগবে / Items needed:**
 - অর্গানিক ডিম / Organic eggs
 - অর্গানিক মুরগি, গরুর মাংস, মাছ / Organic chicken, beef, fish
 - অ্যাভোকাডো (আমদানি) / Avocado (imported)
@@ -93,13 +90,12 @@
 ## ৪. শিশুদের অর্গানিক প্ল্যান
 ## 4. Kids Organic Plan
 
-**ধারণা:** নরম, হালকা, পুষ্টি-ঘন ছোট অংশ শিশুদের জন্য।
-**Concept:** Soft, mild, nutrient-dense small portions for children.
+**ধারণা:** নরম, হালকা, পুষ্টি-সমৃদ্ধ ছোট ছোট অংশ — শিশুদের জন্য।
 
 **নমুনা খাবার:** নরম চাল + মিন্স করা অর্গানিক মুরগি + ম্যাশ করা গাজর/কুমড়া + সিদ্ধ ডিম + ফল + দই।
 **Sample meal:** Soft rice + minced organic chicken + mashed carrot/pumpkin + boiled egg + fruit + yogurt.
 
-**প্রয়োজনীয় উপকরণ / Items needed:**
+**যা লাগবে / Items needed:**
 - নরম অর্গানিক চাল / Soft organic rice
 - অর্গানিক মুরগি (মিন্স) / Organic chicken (minced)
 - ম্যাশ সবজি: আলু, কুমড়া, গাজর, মটর, শিম / Mashed veg: potato, pumpkin, carrot, peas, beans
@@ -115,5 +111,5 @@
 ## নোট
 ## Note
 
-চারটি প্ল্যানই একই অর্গানিক স্ট্যাপল ইনভেন্টরি থেকে তৈরি — তাই ফেজ-১ প্যাকেট পণ্যই সরাসরি ফেজ-২ রান্নার কাজে লাগবে (ভার্টিকাল ইন্টিগ্রেশন)।
+চারটি প্ল্যানই একই অর্গানিক স্ট্যাপল ইনভেন্টরি থেকে হয় — তাই ফেজ-১ প্যাকেট পণ্যই সরাসরি ফেজ-২ রান্নায় কাজে লাগবে (ভার্টিকাল ইন্টিগ্রেশন)।
 (All four plans draw from the SAME organic staple inventory — so Phase-1 parcel staples directly feed Phase-2 meal cooking (vertical integration).)

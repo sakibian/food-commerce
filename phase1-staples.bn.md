@@ -1,10 +1,10 @@
-# ফেজ ১ — স্ট্যাপল পণ্য তালিকা (প্যাক সাইজ ও দাম)
+# ফেজ ১ — স্ট্যাপল পণ্য লিস্ট (প্যাক সাইজ আর দাম)
 # Phase 1 — Staple Product List (Pack Sizes & Prices)
 
-> প্যাকেট স্ট্যাপল লাইন (শেফ ছাড়া)। গুলশান / বারিধারা / ডিওএইচএস / ডিপ্লোম্যাটিক জোনের জন্য।
+> প্যাকেট স্ট্যাপল পণ্য (শেফ ছাড়া)। গুলশান / বারিধারা / ডিওএইচএস / ডিপ্লোম্যাটিক জোনের কাস্টমারদের জন্য।
 > Parcel-staples line (no chef). For Gulshan / Baridhara / DOHS / Diplomatic Zone.
 
-**গুরুত্বপূর্ণ:** দামগুলো পরিকল্পনার জন্য প্রস্তাবিত খুচরা মূল্য (বিডি টাকা) — লঞ্চের আগে সাপ্লায়ারের কোটেশন যাচাই করুন।
+**জরুরি কথা:** এই দামগুলো প্ল্যান করার জন্য আমাদের দেওয়া খুচরা দাম (বিডি টাকা) — শুরু করার আগে সাপ্লায়ারের কোটেশন চেক করে নিন।
 **IMPORTANT:** Prices are SUGGESTED retail (BDT) for planning only — confirm with supplier quotes before launch.
 
 **সেগমেন্ট:** F = পরিবার (বাঙালি), E = বিদেশি, K = কিটো/ফিটনেস, Kd = শিশু।
@@ -85,7 +85,7 @@
 ---
 
 ## সোর্সিং নোট / Sourcing Notes
-- কাস / প্রবর্তনা পাইকারি, বা সরাসরি অর্গানিক ফার্ম থেকে সংগ্রহ করুন। / Wholesale from Khaas Food / Probortona, or direct organic farms.
-- নিজ ব্র্যান্ডের প্যাক/কেজি/বস্তা/বোতলে রি-প্যাক করুন। / Repack into own branded pack/kg/bosta/bottle.
-- কস্ট যাচাই → মার্জিন সেট করুন (টার্গেট ≥৩৫–৪০%)। / Validate cost → set margin (target ≥35–40%).
-- সার্টিফিকেট (BSTI / হালাল / অর্গানিক) এলাকায় বিশ্বাস বাড়ায়। / Certifications (BSTI / halal / organic) boost trust in this zone.
+- খাস ফুড / প্রবর্তনা থেকে পাইকারি দরে কেনা যাবে, বা সরাসরি অর্গানিক ফার্ম থেকে নেওয়া যাবে। / Wholesale from Khaas Food / Probortona, or direct organic farms.
+- নিজ ব্র্যান্ডের প্যাক/কেজি/বস্তা/বোতলে আবার প্যাক করে নিন। / Repack into own branded pack/kg/bosta/bottle.
+- কস্ট চেক করে মার্জিন ঠিক করুন (টার্গেট ≥৩৫–৪০%)। / Validate cost → set margin (target ≥35–40%).
+- সার্টিফিকেট (BSTI / হালাল / অর্গানিক) থাকলে এই এলাকায় কাস্টমারদের ভরসা বাড়ে। / Certifications (BSTI / halal / organic) boost trust in this zone.
