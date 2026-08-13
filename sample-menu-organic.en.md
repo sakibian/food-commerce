@@ -2,7 +2,7 @@
 # নমুনা অর্গানিক মেনু ও প্রয়োজনীয় উপকরণ
 
 > For Gulshan–Baridhara–DOHS–Diplomatic Zone. These are Phase-2 (chef-meal) plans; the ingredients double as our Phase-1 parcel-staple line.
-> গুলশান–বারিধারা–ডিওএইচএস–ডিপ্লোম্যাটিক জোনের জন্য। এগুলো ফেজ-২ (শেফের খাবার) প্ল্যান; উপকরণগুলোই আমাদের ফেজ-১ প্যাকেট স্ট্যাপল লাইন।
+> (গুলশান–বারিধারা–ডিওএইচএস–ডিপ্লোম্যাটিক জোনের জন্য। এগুলো ফেজ-২ (শেফের খাবার) প্ল্যান; উপকরণগুলোই আমাদের ফেজ-১ প্যাকেট স্ট্যাপল লাইন।)
 
 ---
 
@@ -22,7 +22,8 @@
 
 ---
 
-## 1. Healthy Bangla Plan / স্বাস্থ্যকর বাঙালি প্ল্যান
+## 1. Healthy Bangla Plan
+## স্বাস্থ্যকর বাঙালি প্ল্যান
 
 **Concept:** Balanced organic Bangladeshi thali, low oil, high veg.
 **ধারণা:** ভারসাম্যপূর্ণ অর্গানিক বাঙালি থালি, কম তেল, বেশি সবজি।
@@ -42,7 +43,8 @@
 
 ---
 
-## 2. Expat / Continental Plan / বিদেশি / কন্টিনেন্টাল প্ল্যান
+## 2. Expat / Continental Plan
+## বিদেশি / কন্টিনেন্টাল প্ল্যান
 
 **Concept:** Familiar Western meals for diplomats/expatriates — clean, mild, protein-rich.
 **ধারণা:** কূটনীতিক/বিদেশিদের পরিচিত পাশ্চাত্য খাবার — বিশুদ্ধ, হালকা, প্রোটিন সমৃদ্ধ।
@@ -64,7 +66,8 @@
 
 ---
 
-## 3. Keto Plan / কিটো প্ল্যান
+## 3. Keto Plan
+## কিটো প্ল্যান
 
 **Concept:** Low-carb, high-fat organic meals for fitness/weight management.
 **ধারণা:** কম কার্ব, বেশি চর্বি অর্গানিক খাবার ফিটনেস/ওজন নিয়ন্ত্রণের জন্য।
@@ -87,7 +90,8 @@
 
 ---
 
-## 4. Kids Organic Plan / শিশুদের অর্গানিক প্ল্যান
+## 4. Kids Organic Plan
+## শিশুদের অর্গানিক প্ল্যান
 
 **Concept:** Soft, mild, nutrient-dense small portions for children.
 **ধারণা:** নরম, হালকা, পুষ্টি-ঘন ছোট অংশ শিশুদের জন্য।
@@ -108,6 +112,8 @@
 
 ---
 
-## Note / নোট
+## Note
+## নোট
+
 All four plans draw from the SAME organic staple inventory — so Phase-1 parcel staples directly feed Phase-2 meal cooking (vertical integration).
-চারটি প্ল্যানই একই অর্গানিক স্ট্যাপল ইনভেন্টরি থেকে তৈরি — তাই ফেজ-১ প্যাকেট পণ্যই সরাসরি ফেজ-২ রান্নার কাজে লাগবে (ভার্টিকাল ইন্টিগ্রেশন)।
+(চারটি প্ল্যানই একই অর্গানিক স্ট্যাপল ইনভেন্টরি থেকে তৈরি — তাই ফেজ-১ প্যাকেট পণ্যই সরাসরি ফেজ-২ রান্নার কাজে লাগবে (ভার্টিকাল ইন্টিগ্রেশন)।)

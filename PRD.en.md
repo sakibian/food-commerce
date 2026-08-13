@@ -30,15 +30,11 @@
 **Available (estimated) market data:**
 **উপলব্ধ (আনুমানিক) বাজার তথ্য:**
 
-| Area | Approx. Households | Notes |
+| Area (এলাকা) | Approx. Households (আনুমানিক পরিবার) | Notes (বিঃদ্রঃ) |
 |---|---|---|
-| এলাকা | আনুমানিক পরিবার | বিঃদ্রঃ |
-| Baridhara Diplomatic Zone only | **2,500 – 4,000 families** | 500–600 residential plots; each 5–7+ story building ~6–12 families |
-| শুধুমাত্র বারিধারা ডিপ্লোমেটিক জোন | **২,৫০০ – ৪,০০০ পরিবার** | ৫০০–৬০০টি আবাসিক প্লট; প্রতিটি ৫–৭+ তলা ভবনে ~৬–১২টি পরিবার |
-| Whole Baridhara + Baridhara DOHS | **10,000 – 12,000 families** | Includes diplomatic + general residential + DOHS |
-| পুরো বারিধারা + বারিধারা ডিওএইচএস | **১০,০০০ – ১২,০০০ পরিবার** | ডিপ্লোমেটিক + জেনারেল রেসিডেনশিয়াল + ডিওএইচএস অন্তর্ভুক্ত |
-| Gulshan (adjacent) | not estimated | Add separately — large affluent population |
-| গুলশান (সংলগ্ন) | আনুমান করা হয়নি | আলাদাভাবে যোগ করতে হবে — বৃহৎ ধনী জনসংখ্যা |
+| Baridhara Diplomatic Zone only (শুধুমাত্র বারিধারা ডিপ্লোমেটিক জোন) | **2,500 – 4,000 families** (২,৫০০ – ৪,০০০ পরিবার) | 500–600 residential plots; each 5–7+ story building ~6–12 families (৫০০–৬০০টি আবাসিক প্লট; প্রতিটি ৫–৭+ তলা ভবনে ~৬–১২টি পরিবার) |
+| Whole Baridhara + Baridhara DOHS (পুরো বারিধারা + বারিধারা ডিওএইচএস) | **10,000 – 12,000 families** (১০,০০০ – ১২,০০০ পরিবার) | Includes diplomatic + general residential + DOHS (ডিপ্লোমেটিক + জেনারেল রেসিডেনশিয়াল + ডিওএইচএস অন্তর্ভুক্ত) |
+| Gulshan (adjacent) (গুলশান (সংলগ্ন)) | not estimated (আনুমান করা হয়নি) | Add separately — large affluent population (আলাদাভাবে যোগ করতে হবে — বৃহৎ ধনী জনসংখ্যা) |
 
 **Who lives there:** diplomats, foreign embassy staff, ambassadors, expatriates, ultra-HNI (UHNI) Bangladeshi business families. High disposable income, time-poor, quality- and safety-conscious, often with domestic staff but willing to pay for convenience/premium.
 **যারা সেখানে বাস করেন:** কূটনীতিক, বিদেশি দূতাবাসের কর্মী, রাষ্ট্রদূত, প্রবাসী, অতি-উচ্চ-নিট-সম্পদ (UHNI) বাংলাদেশি ব্যবসায়ী পরিবার। উচ্চ সঞ্চয়যোগ্য আয়, সময়ক্ষেপণহীন, মান ও নিরাপত্তা-সচেতন, প্রায়শই গৃহকর্মী থাকলেও সুবিধা/প্রিমিয়ামের জন্য অর্থ দিতে ইচ্ছুক।
@@ -99,17 +95,12 @@
 ## 4. Product / Service Offering (options to decide)
 ## ৪. পণ্য / সেবা প্রদান (সিদ্ধান্তের বিকল্পসমূহ)
 
-| Model | Description | Fit |
+| Model (মডেল) | Description (বিবরণ) | Fit (উপযুক্ততা) |
 |---|---|---|
-| মডেল | বিবরণ | উপযুক্ততা |
-| **A. Cloud kitchen — daily meals** | Subscription + on-demand premium meals | High repeat, best LTV |
-| **ক. ক্লাউড কিচেন — দৈনিক খাবার** | সাবস্ক্রিপশন + অন-ডিমান্ড প্রিমিয়াম মিল | উচ্চ পুনরাবৃত্তি, সর্বোত্তম LTV |
-| **B. Specialty / healthy meal plans** | Keto, salad, protein, diabetic-friendly | Differentiates vs restaurants |
-| **খ. বিশেষায়িত / স্বাস্থ্যকর মিল-প্ল্যান** | কিটো, সালাদ, প্রোটিন, ডায়াবেটিক-বান্ধব | রেস্তোরাঁর তুলনায় পার্থক্য সৃষ্টি |
-| **C. Catering & events** | Embassy/party catering | High margin, sporadic |
-| **গ. ক্যাটারিং ও ইভেন্ট** | দূতাবাস/পার্টি ক্যাটারিং | উচ্চ মার্জিন, মাঝেমাঝে |
-| **D. Gourmet packaged goods** | Bakery, frozen, sauces | Shelf-stable revenue |
-| **ঘ. গুরমেট প্যাকেজড পণ্য** | বেকারি, ফ্রোজেন, সস | তাক-স্থিতিশীল আয় |
+| **A. Cloud kitchen — daily meals** (ক. ক্লাউড কিচেন — দৈনিক খাবার) | Subscription + on-demand premium meals (সাবস্ক্রিপশন + অন-ডিমান্ড প্রিমিয়াম মিল) | High repeat, best LTV (উচ্চ পুনরাবৃত্তি, সর্বোত্তম LTV) |
+| **B. Specialty / healthy meal plans** (খ. বিশেষায়িত / স্বাস্থ্যকর মিল-প্ল্যান) | Keto, salad, protein, diabetic-friendly (কিটো, সালাদ, প্রোটিন, ডায়াবেটিক-বান্ধব) | Differentiates vs restaurants (রেস্তোরাঁর তুলনায় পার্থক্য সৃষ্টি) |
+| **C. Catering & events** (গ. ক্যাটারিং ও ইভেন্ট) | Embassy/party catering (দূতাবাস/পার্টি ক্যাটারিং) | High margin, sporadic (উচ্চ মার্জিন, মাঝেমাঝে) |
+| **D. Gourmet packaged goods** (ঘ. গুরমেট প্যাকেজড পণ্য) | Bakery, frozen, sauces (বেকারি, ফ্রোজেন, সস) | Shelf-stable revenue (তাক-স্থিতিশীল আয়) |
 
 **Recommendation:** Start with **A + B** (daily/healthy meals, cloud kitchen), layer **C** once trusted.
 **সুপারিশ:** **ক + খ** (দৈনিক/স্বাস্থ্যকর মিল, ক্লাউড কিচেন) দিয়ে শুরু করুন, বিশ্বস্ততা অর্জনের পর **গ** যোগ করুন।
@@ -133,39 +124,33 @@
 ## 6. Establishment / Setup Needed (focus areas)
 ## ৬. প্রতিষ্ঠা / সেটআপ প্রয়োজনীয়তা (ফোকাস ক্ষেত্রসমূহ)
 
-**Legal & compliance**
-**আইনি ও সম্মতি**
+**Legal & compliance** (আইনি ও সম্মতি)
 - Trade license (city corp), VAT registration, halal certification, FSS (food safety) compliance, fire & hygiene license for kitchen.
 - ট্রেড লাইসেন্স (সিটি কর্পোরেশন), ভ্যাট নিবন্ধন, হালাল সার্টিফিকেশন, FSS (খাদ্য-নিরাপত্তা) সম্মতি, কিচেনের জন্য অগ্নি ও স্বাস্থ্যবিধি লাইসেন্স।
 - If serving embassies: possible vendor registration / food handler certs.
 - দূতাবাসে সেবা দিলে: সম্ভাব্য ভেন্ডর নিবন্ধন / ফুড-হ্যান্ডলার সার্টিফিকেট।
 
-**Kitchen & production**
-**কিচেন ও উৎপাদন**
+**Kitchen & production** (কিচেন ও উৎপাদন)
 - Licensed commercial kitchen (own or shared/cloud). Location near zone to cut delivery time.
 - লাইসেন্সপ্রাপ্ত বাণিজ্যিক কিচেন (নিজস্ব অথবা শেয়ার্ড/ক্লাউড)। ডেলিভারি সময় কমাতে জোনের কাছাকাছি অবস্থান।
 - Cold storage, packaging (leak-proof, branded), hygiene SOPs, trained cooks.
 - কোল্ড স্টোরেজ, প্যাকেজিং (লিক-প্রুফ, ব্র্যান্ডেড), স্বাস্থ্যবিধি SOP, প্রশিক্ষিত রাঁধুনি।
 
-**Team**
-**টিম**
+**Team** (টিম)
 - Head chef, cooks, kitchen hygiene staff, delivery riders, 1 community/sales person for gated-community trust-building.
 - প্রধান রাঁধুনি, রাঁধুনি, কিচেন স্বাস্থ্যকর্মী, ডেলিভারি রাইডার, গেটেড-কমিউনিটিতে বিশ্বস্ততা-গঠনের জন্য ১ জন কমিউনিটি/সেলস ব্যক্তি।
 
-**Distribution & ops**
-**বিতরণ ও অপারেশন**
+**Distribution & ops** (বিতরণ ও অপারেশন)
 - Delivery routing for gated communities (security gate coordination, ID passes).
 - গেটেড কমিউনিটির জন্য ডেলিভারি রাউটিং (নিরাপত্তা গেট সমন্বয়, আইডি পাস)।
 - Order system (start: WhatsApp/IG; build simple web order form).
 - অর্ডার সিস্টেম (শুরু: WhatsApp/IG; সাধারণ ওয়েব অর্ডার ফর্ম তৈরি)।
 
-**Brand & trust**
-**ব্র্যান্ড ও বিশ্বস্ততা**
+**Brand & trust** (ব্র্যান্ড ও বিশ্বস্ততা)
 - Local word-of-mouth, embassy/community group presence, sampling, referrals.
 - স্থানীয় মুখে-মুখে প্রচার, দূতাবাস/কমিউনিটি গ্রুপে উপস্থিতি, স্যাম্পলিং, রেফারেল।
 
-**Capital & metrics**
-**মূলধন ও মেট্রিক্স**
+**Capital & metrics** (মূলধন ও মেট্রিক্স)
 - Estimate setup cost, break-even household count, CAC in a tight community.
 - সেটআপ খরচ, ব্রেক-ইভেন পরিবার-সংখ্যা এবং সংকীর্ণ কমিউনিটিতে CAC (গ্রাহক-অর্জন-ব্যয়) আনুমান করুন।
 
@@ -174,8 +159,7 @@
 ## 7. Open Questions — Need Founder Decisions / Research
 ## ৭. উন্মুক্ত প্রশ্ন — প্রতিষ্ঠাতার সিদ্ধান্ত / গবেষণা প্রয়োজন
 
-**Market & demand**
-**বাজার ও চাহিদা**
+**Market & demand** (বাজার ও চাহিদা)
 1. Which exact sub-zone to launch in first (Diplomatic Zone vs DOHS vs Gulshan)? Start narrow.
 1. প্রথমে কোন সাব-জোনে লঞ্চ করবে (ডিপ্লোমেটিক জোন vs ডিওএইচএস vs গুলশান)? সংকীর্ণভাবে শুরু করুন।
 2. What is the *real* willingness-to-pay per meal for this segment? (need 10–20 interviews)
@@ -185,29 +169,25 @@
 4. How many of the ~2,500–4,000 families are actually reachable / have domestic help already cooking?
 4. ~২,৫০০–৪,০০০ পরিবারের মধ্যে কতটি প্রকৃতপক্ষে পৌঁছনীয় / যাদের ইতিমধ্যে গৃহকর্মী রান্না করছে?
 
-**Product**
-**পণ্য**
+**Product** (পণ্য)
 5. Daily-meal subscription vs on-demand vs catering — which first?
 5. দৈনিক-মিল সাবস্ক্রিপশন vs অন-ডিমান্ড vs ক্যাটারিং — প্রথমে কোনটি?
 6. Veg/non-veg split, halal strictness, allergen handling.
 6. নিরামিষ/আমিষ বিভাজন, হালাল কঠোরতা, অ্যালার্জেন হ্যান্ডলিং।
 
-**Operations**
-**অপারেশন**
+**Operations** (অপারেশন)
 7. Own kitchen vs rental cloud kitchen — what's available near the zone and at what rent?
 7. নিজস্ব কিচেন vs ভাড়ার ক্লাউড কিচেন — জোনের কাছে কী পাওয়া যায় এবং কত ভাড়ায়?
 8. Delivery: own riders vs third-party (Pathao/Foodpanda) given gated security?
 8. ডেলিভারি: গেটেড নিরাপত্তা বিবেচনায় নিজস্ব রাইডার vs থার্ড-পার্টি (পাঠাও/ফুডপান্ডা)?
 
-**Legal**
-**আইনি**
+**Legal** (আইনি)
 9. Exact license list for a home-adjacent vs commercial kitchen in this area.
 9. এই এলাকায় হোম-সংলগ্ন vs বাণিজ্যিক কিচেনের জন্য সুনির্দিষ্ট লাইসেন্স তালিকা।
 10. Can we legally/vendor-register to serve embassies?
 10. আমরা আইনত/ভেন্ডর-নিবন্ধিত হয়ে দূতাবাসে সেবা দিতে পারব কি?
 
-**Financial**
-**আর্থিক**
+**Financial** (আর্থিক)
 11. Target price point and target margin?
 11. লক্ষ্যমাত্রার মূল্য-বিন্দু ও লক্ষ্যমাত্রার মার্জিন?
 12. How much seed capital is available for the first 3 months?

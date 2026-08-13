@@ -6,13 +6,13 @@
 ## 1. The Two Models / দুটি মডেল
 
 **Model A — Chef Ready-Meals (opencode's way)**
+মডেল এ — শেফের রান্না করা খাবার (opencode-এর পরামর্শ)
 A commercial kitchen cooks daily organic meals; we deliver cooked food to the customer.
-**মডেল এ — শেফের রান্না করা খাবার (opencode-এর পরামর্শ)**
 একটি বাণিজ্যিক রান্নাঘরে প্রতিদিন অর্গানিক খাবার রান্না করা হবে এবং রান্না করা খাবার কাস্টমারের কাছে ডেলিভারি দেওয়া হবে।
 
 **Model B — Parcel Staples (your way)**
+মডেল বি — প্যাকেট/স্ট্যাপল পণ্য (আপনার পরামর্শ)
 We source organic raw staples (oil, ghee, honey, rice, etc.), repack into pack/kg/bosta/bottle, and parcel to the customer. No chef, no cooking.
-**মডেল বি — প্যাকেট/স্ট্যাপল পণ্য (আপনার পরামর্শ)**
 আমরা অর্গানিক কাঁচামাল (তেল, ঘি, মধু, চাল ইত্যাদি) সংগ্রহ করব, প্যাক/কেজি/বস্তা/বোতলে প্যাকেটজাত করব এবং কাস্টমারের কাছে পার্সেল করব। কোনো শেফ বা রান্না লাগবে না।
 
 ---
@@ -34,7 +34,7 @@ We source organic raw staples (oil, ghee, honey, rice, etc.), repack into pack/k
 ## 3. Recommendation / সুপারিশ
 
 **Start with Model B (Parcel Staples), scale into Model A later.**
-**মডেল বি (প্যাকেট পণ্য) দিয়ে শুরু করুন, পরে মডেল এ-তে সম্প্রসারণ করুন।**
+মডেল বি (প্যাকেট পণ্য) দিয়ে শুরু করুন, পরে মডেল এ-তে সম্প্রসারণ করুন।
 
 Why / কেন:
 - You are a small company — no chef/kitchen means fast, cheap launch and learning the zone.
