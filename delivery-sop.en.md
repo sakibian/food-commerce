@@ -1,3 +1,5 @@
+**Language:** English | [বাংলা](delivery-sop.bn.md)
+
 # Parcel Packing & Gated-Community Delivery SOP (Phase 1)
 
 > Step 3 of the plan. How we pack and deliver the parcel-staples line in Gulshan / Baridhara / DOHS / Diplomatic Zone.
@@ -27,3 +29,7 @@
 
 ## 7. Returns & Service
 - Wrong/damaged pack replaced on next delivery; WhatsApp support; collect feedback weekly.
+
+---
+
+**Previous:** [Suppliers](suppliers.en.md)  •  **Next:** [Interview Script](interview-script.en.md)

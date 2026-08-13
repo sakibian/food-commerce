@@ -1,3 +1,5 @@
+**Language:** English | [বাংলা](market-research-organic.bn.md)
+
 # Market Research — Organic Food & F-Commerce in Bangladesh (2025–2026)
 
 Companion to PRD.md. Purpose: decide WHAT organic food to sell, who the f-commerce players are, and where the gap is.
@@ -132,3 +134,7 @@ Given the gap + our affluent, time-poor, quality-obsessed TAM:
 - Do Diplomatic Zone households prefer cooked meals or just safer raw ingredients (domestic cooks already cook)?
 - Will expats pay a premium for imported/organic continental meals vs local healthy Bangla?
 - Regulatory: cooked organic meal labeling vs raw grocery certification differences.
+
+---
+
+**Previous:** [PRD & Licences](PRD.en.md)  •  **Next:** [Chef vs Parcel](comparison-chef-vs-parcel.en.md)

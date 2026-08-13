@@ -1,3 +1,5 @@
+**Language:** English | [বাংলা](README.md)
+
 # Food Commerce — Gulshan, Baridhara, DOHS & Diplomatic Zone
 
 We want to start a small organic food company targeting the affluent pocket of Dhaka — Gulshan, Baridhara (Diplomatic Zone, general residential area, DOHS). This repository holds the full business plan.
@@ -16,18 +18,18 @@ Each topic has two files — .bn.md (Bangla) and .en.md (English). List:
 
 | File | Language | Topic |
 |---|---|---|
-| README.md | Bangla | Main file — index of the whole plan |
-| README.en.md | English | Main file — English version |
-| PRD.bn.md / PRD.en.md | Bangla / English | Product plan, licences & legal |
-| market-research-organic.bn.md / .en.md | Bangla / English | Market research, f-commerce brands & gap |
-| comparison-chef-vs-parcel.bn.md / .en.md | Bangla / English | Chef meals vs parcel staples — comparison |
-| sample-menu-organic.bn.md / .en.md | Bangla / English | Sample menus & 4-plan ingredients |
-| online-presence.bn.md / .en.md | Bangla / English | Where to be online to reach organic customers |
-| phase1-staples.bn.md / .en.md | Bangla / English | Phase-1 staples list (pack size + price) |
-| suppliers.bn.md / .en.md | Bangla / English | Supplier scouting list (how to contact) |
-| delivery-sop.bn.md / .en.md | Bangla / English | Packing & gated-delivery SOP (Step 3) |
-| interview-script.bn.md / .en.md | Bangla / English | Customer interview script (Step 4) |
-| phase2-kitchen.bn.md / .en.md | Bangla / English | Phase-2 kitchen & financial plan (Step 5) |
+| [README.md](README.md) | Bangla | Main file — index of the whole plan |
+| [README.en.md](README.en.md) | English | Main file — English version |
+| [PRD.bn.md](PRD.bn.md) / [PRD.en.md](PRD.en.md) | Bangla / English | Product plan, licences & legal |
+| [market-research-organic.bn.md](market-research-organic.bn.md) / [.en.md](market-research-organic.en.md) | Bangla / English | Market research, f-commerce brands & gap |
+| [comparison-chef-vs-parcel.bn.md](comparison-chef-vs-parcel.bn.md) / [.en.md](comparison-chef-vs-parcel.en.md) | Bangla / English | Chef meals vs parcel staples — comparison |
+| [sample-menu-organic.bn.md](sample-menu-organic.bn.md) / [.en.md](sample-menu-organic.en.md) | Bangla / English | Sample menus & 4-plan ingredients |
+| [online-presence.bn.md](online-presence.bn.md) / [.en.md](online-presence.en.md) | Bangla / English | Where to be online to reach organic customers |
+| [phase1-staples.bn.md](phase1-staples.bn.md) / [.en.md](phase1-staples.en.md) | Bangla / English | Phase-1 staples list (pack size + price) |
+| [suppliers.bn.md](suppliers.bn.md) / [.en.md](suppliers.en.md) | Bangla / English | Supplier scouting list (how to contact) |
+| [delivery-sop.bn.md](delivery-sop.bn.md) / [.en.md](delivery-sop.en.md) | Bangla / English | Packing & gated-delivery SOP (Step 3) |
+| [interview-script.bn.md](interview-script.bn.md) / [.en.md](interview-script.en.md) | Bangla / English | Customer interview script (Step 4) |
+| [phase2-kitchen.bn.md](phase2-kitchen.bn.md) / [.en.md](phase2-kitchen.en.md) | Bangla / English | Phase-2 kitchen & financial plan (Step 5) |
 
 ## How to switch language
 Each topic has two files — .bn.md means Bangla, .en.md means English. To read in Bangla open the .bn.md; to read in English open the .en.md. The main Bangla file is README.md; the English version is README.en.md.
@@ -47,3 +49,7 @@ Each topic has two files — .bn.md means Bangla, .en.md means English. To read 
 ## Next work
 - Actually run the interviews (15–20 within 2 weeks) and stock Phase-1 inventory based on results.
 - If interviews prove meal interest, start the Phase-2 kitchen setup.
+
+---
+
+**Next:** [PRD & Licences](PRD.en.md)

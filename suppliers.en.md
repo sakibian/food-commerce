@@ -1,3 +1,5 @@
+**Language:** English | [বাংলা](suppliers.bn.md)
+
 # Supplier Scouting List (Contact Approach)
 
 > Step 2 of the plan: find organic suppliers for the Phase-1 parcel-staples line.
@@ -84,3 +86,7 @@
 - Repack / resale permission (white-label).
 - Food safety / hygiene audit.
 - Confirm WE obtain BSTI CM (Conformity Mark) and Bangla labeling for our repacked products.
+
+---
+
+**Previous:** [Phase-1 Staples](phase1-staples.en.md)  •  **Next:** [Delivery SOP](delivery-sop.en.md)

@@ -1,3 +1,5 @@
+**Language:** English | [বাংলা](sample-menu-organic.bn.md)
+
 # Sample Organic Menus & Required Items
 
 > For Gulshan–Baridhara–DOHS–Diplomatic Zone. These are Phase-2 (chef-meal) plans; the ingredients double as our Phase-1 parcel-staple line.
@@ -102,3 +104,7 @@
 ## Note
 
 All four plans draw from the SAME organic staple inventory — so Phase-1 parcel staples directly feed Phase-2 meal cooking (vertical integration).
+
+---
+
+**Previous:** [Chef vs Parcel](comparison-chef-vs-parcel.en.md)  •  **Next:** [Online Presence](online-presence.en.md)

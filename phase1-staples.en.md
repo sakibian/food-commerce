@@ -1,3 +1,5 @@
+**Language:** English | [বাংলা](phase1-staples.bn.md)
+
 # Phase 1 — Staple Product List (Pack Sizes & Prices)
 
 > Parcel-staples line (no chef). For Gulshan / Baridhara / DOHS / Diplomatic Zone.
@@ -86,3 +88,7 @@
 - Validate cost → set margin (target ≥35–40%).
 - Certifications (BSTI / halal / organic) boost trust in this zone.
 - Once we repack under our own brand, we must obtain the BSTI Certification Mark (CM) for packaged items (honey, spices, oil, rice), and the label MUST be in Bangla — ingredients, date, expiry, and weight in Bangla.
+
+---
+
+**Previous:** [Online Presence](online-presence.en.md)  •  **Next:** [Suppliers](suppliers.en.md)

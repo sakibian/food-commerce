@@ -1,3 +1,5 @@
+**Language:** English | [বাংলা](comparison-chef-vs-parcel.bn.md)
+
 # Comparison: Chef Ready-Meals vs Parcel Staples (Business Models)
 
 ---
@@ -47,3 +49,7 @@ Once ~100–200 households reorder staples, layer in chef meals (Phase 2) — by
 2. Find organic suppliers (Khaas/Probortona wholesale or direct farm).
 3. Set up parcel packing + gated-delivery.
 4. Validate, then plan Phase-2 kitchen.
+
+---
+
+**Previous:** [Market Research](market-research-organic.en.md)  •  **Next:** [Sample Menu](sample-menu-organic.en.md)

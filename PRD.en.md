@@ -1,3 +1,5 @@
+**Language:** English | [বাংলা](PRD.bn.md)
+
 # PRD — Hyperlocal Premium Food Business (Gulshan · Baridhara · DOHS · Diplomatic Zone, Dhaka)
 
 > Status: Draft v0.1 (brainstorming)
@@ -171,3 +173,7 @@ The legal paperwork and licenses needed to start and run the business:
 
 - Family counts are estimates (2.5k–4k diplomatic; 10k–12k whole Baridhara+DOHS).
 - "Family" ≈ 1 ordering household (may be lower if domestic cooks present).
+
+---
+
+**Previous:** [Main Index](README.en.md)  •  **Next:** [Market Research](market-research-organic.en.md)

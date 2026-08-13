@@ -1,3 +1,5 @@
+**Language:** English | [বাংলা](interview-script.bn.md)
+
 # Customer Interview Script (Phase 1 Validation)
 
 > Step 4 of the plan. Run 15–20 interviews in Gulshan / Baridhara / DOHS / Diplomatic Zone to confirm demand before investing.
@@ -34,3 +36,7 @@ Log in a spreadsheet with columns: date, household type, current source, top-nee
 
 ## Target
 Complete 15–20 interviews within 2 weeks; review before stocking inventory.
+
+---
+
+**Previous:** [Delivery SOP](delivery-sop.en.md)  •  **Next:** [Phase-2 Kitchen](phase2-kitchen.en.md)

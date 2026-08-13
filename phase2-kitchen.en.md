@@ -1,3 +1,5 @@
+**Language:** English | [বাংলা](phase2-kitchen.bn.md)
+
 # Phase-2 Kitchen & Financial Plan (Chef-Made Organic Meals)
 
 > Step 5 of the plan. After Phase-1 staples demand is proven, add daily chef-made organic meals.
@@ -44,3 +46,7 @@ With subscription of ~40 households × 5 days = 200 meals/week ≈ 860/month →
 ## Risk & next
 - Validate meal interest in interviews (Step 4) before committing kitchen cost.
 - Start with 1 cuisine, expand as orders grow.
+
+---
+
+**Previous:** [Interview Script](interview-script.en.md)

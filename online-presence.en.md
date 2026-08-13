@@ -1,3 +1,5 @@
+**Language:** English | [বাংলা](online-presence.bn.md)
+
 # Online Presence — Where to Be to Get Organic Customers
 
 For Gulshan / Baridhara / DOHS / Diplomatic Zone organic food business.
@@ -72,3 +74,7 @@ The biggest weakness of f-commerce is trust and fear of scams. Do these every da
 - Post customer unboxing & reviews from the zone.
 - Free samples to diplomats/influencers in the zone.
 - Weekly staple-box reminder on WhatsApp + groups.
+
+---
+
+**Previous:** [Sample Menu](sample-menu-organic.en.md)  •  **Next:** [Phase-1 Staples](phase1-staples.en.md)
