@@ -1,48 +1,43 @@
-# Food Commerce — Gulshan / Baridhara / DOHS / Diplomatic Zone
-# ফুড কমার্স — গুলশান / বারিধারা / ডিওএইচএস / ডিপ্লোম্যাটিক জোন
+# Food Commerce — Gulshan, Baridhara, DOHS & Diplomatic Zone
 
-Business planning repository for a small organic food company targeting the affluent pocket of Dhaka: Gulshan, Baridhara (Diplomatic Zone, General Residential, DOHS).
-ঢাকার ধনী এলাকা — গুলশান, বারিধারা (ডিপ্লোম্যাটিক জোন, সাধারণ আবাসিক, ডিওএইচএস) — টার্গেট করা একটি ছোট অর্গানিক ফুড কোম্পানির ব্যবসায়িক পরিকল্পনার রিপোজিটরি।
+We want to start a small organic food company targeting the affluent pocket of Dhaka — Gulshan, Baridhara (Diplomatic Zone, general residential area, DOHS). This repository holds the full business plan.
 
----
+(Bangla version: README.md)
 
-## Goal / লক্ষ্য
-Launch a trusted organic food brand for ~2,500–4,000 families in the Diplomatic Zone (and ~10,000–12,000 across whole Baridhara + DOHS), starting lean and scaling into cooked meals.
-ডিপ্লোম্যাটিক জোনের ~২,৫০০–৪,০০০ পরিবারের (এবং পুরো বারিধারা + ডিওএইচএস-এ ~১০,০০০–১২,০০০) জন্য একটি বিশ্বস্ত অর্গানিক ফুড ব্র্যান্ড চালু করা, লিণ দিয়ে শুরু ও রান্না খাবারে সম্প্রসারণ।
+## Goal
+Build a trustworthy organic food brand for the ~2,500–4,000 families in the Diplomatic Zone (and 10,000–12,000 across all of Baridhara + DOHS). Start small, then expand into cooked food.
 
----
+## Our Plan
+- Phase 1 (start): parcel organic staples — pack/kg/bosta/bottle, no chef. Proven demand, low risk.
+- Phase 2 (expand): chef-made daily organic meals (healthy Bengali / foreign / keto / kids).
 
-## Recommended Path / সুপারিশকৃত পথ
-- **Phase 1 (start) / ফেজ ১ (শুরু):** Parcel organic staples — pack/kg/bosta/bottle, NO chef. Proven demand, low risk.
-  অর্গানিক স্ট্যাপল প্যাকেট — প্যাক/কেজি/বস্তা/বোতল, শেফ ছাড়া। প্রমাণিত চাহিদা, কম ঝুঁকি।
-- **Phase 2 (scale) / ফেজ ২ (সম্প্রসারণ):** Add chef-made organic daily meals (healthy Bangla / expat / keto / kids).
-  শেফের রান্না দৈনিক অর্গানিক খাবার যোগ (স্বাস্থ্যকর বাঙালি / বিদেশি / কিটো / শিশু)।
+## Files
+Each topic has two files — .bn.md (Bangla) and .en.md (English). List:
 
----
+| File | Language | Topic |
+|---|---|---|
+| README.md | Bangla | Main file — index of the whole plan |
+| README.en.md | English | Main file — English version |
+| PRD.bn.md / PRD.en.md | Bangla / English | Product plan, licences & legal |
+| market-research-organic.bn.md / .en.md | Bangla / English | Market research, f-commerce brands & gap |
+| comparison-chef-vs-parcel.bn.md / .en.md | Bangla / English | Chef meals vs parcel staples — comparison |
+| sample-menu-organic.bn.md / .en.md | Bangla / English | Sample menus & 4-plan ingredients |
+| online-presence.bn.md / .en.md | Bangla / English | Where to be online to reach organic customers |
+| phase1-staples.bn.md / .en.md | Bangla / English | Phase-1 staples list (pack size + price) |
+| suppliers.bn.md / .en.md | Bangla / English | Supplier scouting list (how to contact) |
+| delivery-sop.bn.md / .en.md | Bangla / English | Packing & gated-delivery SOP (Step 3) |
 
-## Documents / ডকুমেন্টস
-| File / ফাইল | Purpose / উদ্দেশ্য |
-|---|---|
-| `PRD.en.md` | Product Requirements Doc (bilingual) / প্রোডাক্ট রিকোয়ারমেন্ট ডক |
-| `market-research-organic.en.md` | Market research, f-commerce brands & gap (bilingual) / মার্কেট গবেষণা ও গ্যাপ |
-| `comparison-chef-vs-parcel.en.md` | Chef-meals vs parcel-staples model comparison / মডেল তুলনা |
-| `sample-menu-organic.en.md` | Sample menus & required items for 4 plans / নমুনা মেনু ও উপকরণ |
-| `online-presence.en.md` | Where to be online to get organic customers / অর্গানিক কাস্টমার পেতে অনলাইনে কোথায় থাকতে হবে |
-| `phase1-staples.en.md` | Phase-1 staple product list (pack sizes & prices) / ফেজ-১ স্ট্যাপল পণ্য তালিকা |
-| `suppliers.en.md` | Supplier scouting list & contact approach / সাপ্লায়ার স্কাউটিং তালিকা |
+## How to switch language
+Each topic has two files — .bn.md means Bangla, .en.md means English. To read in Bangla open the .bn.md; to read in English open the .en.md. The main Bangla file is README.md; the English version is README.en.md.
 
----
+## Target Market Snapshot
+- Baridhara Diplomatic Zone: ~2,500–4,000 families
+- All Baridhara + DOHS: ~10,000–12,000 families
+- Residents: diplomats, expatriates, wealthy business families
 
-## Target Market Snapshot / টার্গেট মার্কেট সারাংশ
-- Baridhara Diplomatic Zone: ~2,500–4,000 families / বারিধারা ডিপ্লোম্যাটিক জোন: ~২,৫০০–৪,০০০ পরিবার
-- Whole Baridhara + DOHS: ~10,000–12,000 families / পুরো বারিধারা + ডিওএইচএস: ~১০,০০০–১২,০০০ পরিবার
-- Residents: diplomats, expats, UHNI business families / বাসিন্দা: কূটনীতিক, বিদেশি, ধনী ব্যবসায়ী পরিবার
-
----
-
-## Next Steps / পরবর্তী ধাপ
-1. ✅ Build Phase-1 staple product list (pack sizes + prices). / ফেজ-১ স্ট্যাপল তালিকা — সম্পন্ন।
-2. ✅ Find organic suppliers (wholesale or direct farm). / অর্গানিক সাপ্লায়ার খোঁজা — সম্পন্ন।
-3. Set up parcel packing + gated-community delivery. / প্যাকিং ও গেটেড ডেলিভারি সেটআপ।
-4. Validate with 15–20 household interviews. / ১৫–২০ ইন্টারভিউ দিয়ে যাচাই।
-5. Plan Phase-2 kitchen. / ফেজ-২ রান্নাঘর পরিকল্পনা।
+## Next Steps
+1. Phase-1 staples list done (pack size + price).
+2. Organic supplier scouting done (wholesale or direct farm).
+3. Parcel packing & gated-delivery SOP written.
+4. Validate with 15–20 household interviews.
+5. Plan the Phase-2 kitchen.
