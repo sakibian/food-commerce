@@ -26,6 +26,8 @@ Each topic has two files — .bn.md (Bangla) and .en.md (English). List:
 | phase1-staples.bn.md / .en.md | Bangla / English | Phase-1 staples list (pack size + price) |
 | suppliers.bn.md / .en.md | Bangla / English | Supplier scouting list (how to contact) |
 | delivery-sop.bn.md / .en.md | Bangla / English | Packing & gated-delivery SOP (Step 3) |
+| interview-script.bn.md / .en.md | Bangla / English | Customer interview script (Step 4) |
+| phase2-kitchen.bn.md / .en.md | Bangla / English | Phase-2 kitchen & financial plan (Step 5) |
 
 ## How to switch language
 Each topic has two files — .bn.md means Bangla, .en.md means English. To read in Bangla open the .bn.md; to read in English open the .en.md. The main Bangla file is README.md; the English version is README.en.md.
@@ -39,5 +41,9 @@ Each topic has two files — .bn.md means Bangla, .en.md means English. To read 
 1. Phase-1 staples list done (pack size + price).
 2. Organic supplier scouting done (wholesale or direct farm).
 3. Parcel packing & gated-delivery SOP written.
-4. Validate with 15–20 household interviews.
-5. Plan the Phase-2 kitchen.
+4. Customer interview script written (Step 4).
+5. Phase-2 kitchen & financial plan written (Step 5).
+
+## Next work
+- Actually run the interviews (15–20 within 2 weeks) and stock Phase-1 inventory based on results.
+- If interviews prove meal interest, start the Phase-2 kitchen setup.
