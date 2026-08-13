@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Secrets / env
+.env
+*.key
+secrets.*
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Keep planning docs tracked; ignore nothing else by default
