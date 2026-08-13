@@ -28,6 +28,7 @@ Launch a trusted organic food brand for ~2,500–4,000 families in the Diplomati
 | `comparison-chef-vs-parcel.en.md` | Chef-meals vs parcel-staples model comparison / মডেল তুলনা |
 | `sample-menu-organic.en.md` | Sample menus & required items for 4 plans / নমুনা মেনু ও উপকরণ |
 | `online-presence.en.md` | Where to be online to get organic customers / অর্গানিক কাস্টমার পেতে অনলাইনে কোথায় থাকতে হবে |
+| `phase1-staples.en.md` | Phase-1 staple product list (pack sizes & prices) / ফেজ-১ স্ট্যাপল পণ্য তালিকা |
 
 ---
 
@@ -39,7 +40,7 @@ Launch a trusted organic food brand for ~2,500–4,000 families in the Diplomati
 ---
 
 ## Next Steps / পরবর্তী ধাপ
-1. Build Phase-1 staple product list (pack sizes + prices). / ফেজ-১ স্ট্যাপল তালিকা তৈরি।
+1. ✅ Build Phase-1 staple product list (pack sizes + prices). / ফেজ-১ স্ট্যাপল তালিকা — সম্পন্ন।
 2. Find organic suppliers (wholesale or direct farm). / অর্গানিক সাপ্লায়ার খোঁজা।
 3. Set up parcel packing + gated-community delivery. / প্যাকিং ও গেটেড ডেলিভারি সেটআপ।
 4. Validate with 15–20 household interviews. / ১৫–২০ ইন্টারভিউ দিয়ে যাচাই।
